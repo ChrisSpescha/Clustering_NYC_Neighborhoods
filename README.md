@@ -5,8 +5,8 @@ New York City is composed of five boroughs: Brooklyn, Queens, Manhattan, The Bro
 
 In this article we will explore the neighborhoods in all these five boroughs of New York City and the most common venue categories in each neighborhoods such as park, hotel, bakery, coffee shop and so on. We will then cluster the neighborhoods using k-means clustering so that it becomes easy to determine for a person as to which neighborhood they should choose for their move in to this big city.
 
-K-Mean Clustering:
-Wikipedia: k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
+K-Means Clustering:
+K-Means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
 
 
 K-Means is a type of partitioning clustering, that is, it divides the data into K non-overlapping subsets or clusters without any cluster internal structure or labels. This means, it’s an unsupervised algorithm. Objects within a cluster are very similar, and objects across different clusters are very different or dissimilar.
